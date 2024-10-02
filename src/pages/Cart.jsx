@@ -36,7 +36,7 @@ export default function Cart() {
         ))}
         <div className="cart-header cart-item-container">
           <div></div>
-          <div></div>
+          <button>Buy Now</button>
           <div></div>
           <div className="total">
             $
